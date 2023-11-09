@@ -1,4 +1,5 @@
 create database DB_sistemaNota
+go
 use DB_sistemaNota
 
 create table tbl_estudiante(
